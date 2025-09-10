@@ -24,5 +24,5 @@ _
 
 
 <p align="center">
-  <img width="400" height="250" src="al.jpg">
+  <img width="400" height="250" src="C:\Users\is\Desktop\git_Номшоев\al.jpg">
 </p>
