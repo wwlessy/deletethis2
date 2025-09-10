@@ -24,6 +24,6 @@ _
 
 
 <p align="center">
-  <img width="400" height="250" src="![Без имени](https://github.com/user-attachments/assets/90a44cf3-9729-4be1-a9da-5641a3094d36)
+  <img width="400" height="250" src="(https://github.com/user-attachments/assets/90a44cf3-9729-4be1-a9da-5641a3094d36)
 ">
 </p>
